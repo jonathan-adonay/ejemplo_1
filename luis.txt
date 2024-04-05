@@ -1,0 +1,4 @@
+modificando el archivo
+git status
+agregar el archivo
+ver el estado nuevamente
